@@ -1,4 +1,4 @@
-This program generates graphics patterns procedurally, specifically one for squares. 
+This program generates graphics patterns procedurally, specifically one for squares, using recursion.
 
 I read from stdin and input should consist of:
   -dimension of image - 2 integers, representing width (number of columns) and height (number of rows). Coordinates of points on the image are 0..W-1, 
