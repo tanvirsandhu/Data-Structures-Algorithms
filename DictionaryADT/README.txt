@@ -17,4 +17,4 @@ In addition, the program creates and manipulates dicitonaries using the followin
   -dictionary_delete( D, k) -- deletes element with key k from the dictionary. 
   -dictionary_print( D ) -- prints the dictionary. 
   
-Example input and output are given in test.in and test.out.
+Example input is given in test.in.
