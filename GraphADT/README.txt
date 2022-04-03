@@ -20,3 +20,13 @@ An input and output example for the following maze is given in test.in and test.
                       #...#         ######...#......#####     
                       #####              #...########         
                                          #####                
+
+The output follows the following format:
+`number_explored path_length left_steps right_steps up_steps down_steps`
+
+Where number_explored is the total number of nodes that were explored using the pathfinding algorithm,
+path_length is the total length of the path,
+left_steps is the number of left neighours followed,
+right_steps is the number of right neighbors followed,
+up_steps is the number of up neighbors followed,
+down_steps is the number of down neighbors followed.
